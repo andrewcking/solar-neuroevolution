@@ -1,4 +1,4 @@
-#--- parameters for the XOR-2 experiment ---#
+#--- parameters for solar radiation prediction ---#
 
 # The `Types` section specifies which classes should be used for various
 # tasks in the NEAT algorithm.  If you use a non-default class here, you
